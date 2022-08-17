@@ -107,7 +107,6 @@
 				E48B344D28AD318900A8001E /* AppDelegate.swift */,
 				E48B344F28AD318900A8001E /* SceneDelegate.swift */,
 				E48B345328AD318900A8001E /* Main.storyboard */,
-				E48B345128AD318900A8001E /* ViewController.swift */,
 				E48B345628AD318F00A8001E /* Assets.xcassets */,
 				E48B345828AD318F00A8001E /* LaunchScreen.storyboard */,
 				E48B345B28AD318F00A8001E /* Info.plist */,
@@ -137,6 +136,7 @@
 			children = (
 				E48B347E28AD325500A8001E /* StudyMaterialModel.swift */,
 				E48B348028AD342400A8001E /* StudyTableViewCell.swift */,
+				E48B345128AD318900A8001E /* ViewController.swift */,
 			);
 			path = StudyMaterialView;
 			sourceTree = "<group>";
